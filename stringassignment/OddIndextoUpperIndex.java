@@ -24,17 +24,16 @@ public class OddIndextoUpperIndex {
 				c[i]= Character.toUpperCase(c[i]);
 				
 				
-				System.out.println(c[i]);
-				
-				
-				
-				
+				System.out.print(c[i] + " ");
+	
+			}
+			else
+			{
+				System.out.print(c[i]+ " ");
+
 			}
 			
 		}
-		
-		
-
 	}
 
 }
