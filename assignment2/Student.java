@@ -7,12 +7,12 @@ public class Student {
 	}
 	public void getStudentInfo(int id) {
 		
-		//System.out.println(" Student Id : 123 ");
+		System.out.println(" Student Id : 123 ");
 			
 		}
-	public void getStudentInfo(String name, String email, String Phone ) {
+	public void getStudentInfo(String name, String email, String phone ) {
 		
-		System.out.println();
+		System.out.println(name + " , " + email + " , " + phone);
 	}
 	
 
