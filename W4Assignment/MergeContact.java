@@ -55,12 +55,12 @@ public class MergeContact {
 		
 		
 		Thread.sleep(3000);
-		driver.findElement(By.xpath("//a[@id=\"ext-gen289\"]")).click();
+		driver.findElement(By.xpath("//a[@id=\"ext-gen280\"]")).click();
 		//driver.findElement(By.xpath("//div[@id=\"ext-gen293\"]/a")).click();
 		
-		driver.findElement(By.xpath("//img[@id=\"ext-gen616\"]")).click();
-		driver.findElement(By.xpath("//a[@id=\"ext-gen295\"]")).click();
-		driver.findElement(By.className("buttonDangerous")).click();
+		//driver.findElement(By.xpath("//img[@id=\"ext-gen616\"]")).click();
+		//driver.findElement(By.xpath("//a[@id=\"ext-gen295\"]")).click();
+		//driver.findElement(By.className("buttonDangerous")).click();
 		
 		
 		
